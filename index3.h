@@ -20,7 +20,7 @@ const char HTML3[] PROGMEM = R"====(
  
   <iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/1320323/charts/4?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&title=BME680+Gas&type=line&xaxis=Date+and+Time&yaxis=Gas+Res++KOhms"></iframe>
   </frameset>
- 	<br><br>
+  <br><br>
   <h2><a href="%LINK%/BME680" >Home</a></h2>
   <br>
 </body>
