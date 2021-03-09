@@ -419,15 +419,27 @@ void loop()
           udp.printf("Seconds since boot: %u", millis() / 1000);
           udp.endPacket();
      }
+	
+     getWeatherData();
+	
+     if((SECOND == 20) || (SECOND == 40) || (SECOND == 59))
+     {
+
+          delay(1000);
+          
+          serialMonitor();
+          
+          exit;
+
+     }
+	
 
      for(int x; x < 5000; x++)
      {
           ftpSrv.handleFTP();
      }
 
-     //Convert float to String
-     
-      getDateTime();
+     getDateTime();
 
      if(SECOND ==  0)
      {
@@ -435,8 +447,6 @@ void loop()
           delay(1000);
 
           screenOne();
-
-          serialMonitor();
 
           exit;
           
@@ -458,8 +468,6 @@ void loop()
      {
 
           delay(1000);
-
-          getWeatherData();
 
           logtoSPIFFS();
 
