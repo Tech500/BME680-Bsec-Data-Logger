@@ -8,6 +8,6 @@ Before using "BME680-Bsec-Data-Logger" enter your network credentials and relate
 
 "Thingspeak.com" graphing can be displayed by inputing "Thingspeak.com" Iframes into "index.h"
 
-Wemos D1 R2 was used in devolping code.  
+Wemos D1 R2 was used in developing code.  
 
 FTP was tested using "FileZilla."
