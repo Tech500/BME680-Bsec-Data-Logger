@@ -7,3 +7,5 @@ stored in "LittleFS."
 Before using "BME680-Bsec-Data-Logger" enter your network credentials and related information into "config.h"
 
 "Thingspeak.com" graphing can be displayed by inputing "Thingspeak.com" Iframes into "index.h"
+
+Wemos D1 R2 was used in devolping code.  FTP was tested using "FileZilla."
