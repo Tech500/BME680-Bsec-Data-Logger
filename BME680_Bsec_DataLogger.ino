@@ -32,11 +32,11 @@
 
 
 // Replace with your network details
-//const char* ssid = "R2D2";
-//const char* password = "sissy4357";
+//const char* ssid 
+//const char* password 
 
-//String linkAddress = "http://73.102.122.239:8060";  //WAN --publicIP and PORT for URL link
-//String linkAddress = "http://10.0.0.110:8060";  //LAN --privateIP and PORT for URL link
+//String linkAddress  //WAN --publicIP and PORT for URL link
+//String linkAddress  //LAN --privateIP and PORT for URL link
 
 //AsyncWebServer
 AsyncWebServer serverAsync(8060);
@@ -92,14 +92,14 @@ FTPServer ftpSrv(LittleFS);
 boolean connected = false;
 
 WiFiUDP udp;
-// local port to listen for UDP packets
 
 /*
-const int udpPort = 1337;
-char incomingPacket[255];
-char replyPacket[] = "Hi there! Got the message :-)";
-const char * udpAddress1 = "us.pool.ntp.org";
-const char * udpAddress2 = "time.nist.gov";
+// local port to listen for UDP packets
+//const int udpPort
+//char incomingPacket[255];
+//char replyPacket[]
+//const char * udpAddress1
+//const char * udpAddress2 
 */
 
 
@@ -133,7 +133,6 @@ String IAQ;  //String for Air Quality
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 
 //Time settings
-//#define TZ "EST+5EDT,M3.2.0/2,M11.1.0/2"
 int DOW, MONTH, DATE, YEAR, HOUR, MINUTE, SECOND;
 //char daysOfTheWeek[7][12] = {"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"};
 char strftime_buf[64];
@@ -215,8 +214,8 @@ void wifi_Start()
 
 //Graphing requires "FREE" "ThingSpeak.com" account..
 //Enter "ThingSpeak.com" data here....
-//unsigned long myChannelNumber = 1320323;
-//const char * myWriteAPIKey = "95NA12W3LS7IOE65";
+//unsigned long myChannelNumber
+//const char * myWriteAPIKey
 
 
 void setup()
@@ -351,7 +350,7 @@ void setup()
      // ports are defined in FTPCommon.h, default is
      //   21 for the control connection
      //   50009 for the data connection (passive mode by default)
-     ftpSrv.begin(F("ftp"), F("ftp")); //username, password for ftp.  set ports in ESP8266FtpServer.h  (default 21, 50009 for PASV)
+     ftpSrv.begin(F("FTP"), F("FTP")); //username, password for ftp.  set ports in ESP8266FtpServer.h  (default 21, 50009 for PASV)
 
 
      // by default, we'll generate the high voltage from the 3.3v line internally! (neat!)
