@@ -6,7 +6,7 @@ stored in "LittleFS."
 
 Before using "BME680-BSEC-Data-Logger" enter your network credentials and related information into "config.h"
 
-"Thingspeak.com" graphing can be displayed by inputing "Thingspeak.com" Iframes into "index.h"
+"Thingspeak.com" graphing can be displayed by inputing "Thingspeak.com" Iframes into "index3.h"
 
 Wemos D1 R2 was used in developing code.  
 
