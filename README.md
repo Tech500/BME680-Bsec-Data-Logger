@@ -14,3 +14,6 @@ https://drive.google.com/drive/folders/1L7QDz4w8qhgxX3nBnLf-JB6nFU1T7aWC?usp=sha
 Wemos D1 R2 was used in developing code.  
 
 FTP was tested using "FileZilla."
+
+"Serial Monitor --Acetone Test.txt" is a test of BME680 with an Acetone, soaked Qtip placed close to the 
+BME680.  Start of Acetone Qtip test: 21:08:40, Removal of Qtip 21:18:59,  Return to "Good" air quality 21:37:20.
