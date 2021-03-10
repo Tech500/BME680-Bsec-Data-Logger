@@ -1066,7 +1066,7 @@ void serialMonitor()
      airQuality();
 
      Serial.println("\n\nAir Quality:  " + IAQ + "");
-     Serial.println("IBME680 IAQ:  " + String(sensor));
+     Serial.println("BME680 IAQ:  " + String(sensor));
      Serial.println(dtStamp);
 
 }
