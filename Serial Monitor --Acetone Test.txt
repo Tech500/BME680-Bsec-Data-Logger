@@ -1,0 +1,974 @@
+
+Placed Qtip, soaked in Acetone very close to BME680
+~ 21:08:40
+
+Removed Acetone Qtip ~ 21:18:57
+
+Acetone test ran 18 Minutes 40 Seconds
+
+Acetone test results:
+
+Temperature:     73.73 F 
+Pressure:        30.23 inHg
+Humidity:        30.99 %
+Gas:             530.62 KOhmS
+CO2:             500.00 KOhms
+VOC:             0.50 KOhms
+
+Air Quality:  Good
+BME680 IAQ:  25.00
+Tue , 03/09/2021 , 21:08:40 EST
+
+Temperature:     73.86 F 
+Pressure:        30.23 inHg
+Humidity:        31.03 %
+Gas:             568.29 KOhms
+CO2:             500.00 KOhms
+VOC:             0.50 KOhms
+
+Air Quality:  Good
+BME680 IAQ:  25.00
+Tue , 03/09/2021 , 21:08:59 EST
+
+Temperature:     73.81 F 
+Pressure:        30.23 inHg
+Humidity:        30.89 %
+Gas:             584.29 KOhms
+CO2:             500.00 KOhms
+VOC:             0.50 KOhms
+
+Air Quality:  Good
+BME680 IAQ:  25.00
+Tue , 03/09/2021 , 21:09:20 EST
+
+Temperature:     73.66 F 
+Pressure:        30.23 inHg
+Humidity:        30.94 %
+Gas:             582.75 KOhms
+CO2:             500.00 KOhms
+VOC:             0.50 KOhms
+
+Air Quality:  Good
+BME680 IAQ:  25.00
+Tue , 03/09/2021 , 21:09:40 EST
+
+Temperature:     73.61 F 
+Pressure:        30.23 inHg
+Humidity:        31.00 %
+Gas:             588.43 KOhms
+CO2:             500.00 KOhms
+VOC:             0.50 KOhms
+
+Air Quality:  Good
+BME680 IAQ:  25.00
+Tue , 03/09/2021 , 21:09:59 EST
+
+Temperature:     73.48 F 
+Pressure:        30.23 inHg
+Humidity:        31.09 %
+Gas:             599.58 KOhms
+CO2:             500.00 KOhms
+VOC:             0.50 KOhms
+
+Air Quality:  Good
+BME680 IAQ:  25.00
+Tue , 03/09/2021 , 21:10:20 EST
+
+Temperature:     73.34 F 
+Pressure:        30.23 inHg
+Humidity:        31.19 %
+Gas:             591.57 KOhms
+CO2:             500.00 KOhms
+VOC:             0.50 KOhms
+
+Air Quality:  Good
+BME680 IAQ:  25.00
+Tue , 03/09/2021 , 21:10:40 EST
+
+Temperature:     73.30 F 
+Pressure:        30.23 inHg
+Humidity:        31.18 %
+Gas:             596.35 KOhms
+CO2:             500.00 KOhms
+VOC:             0.50 KOhms
+
+Air Quality:  Good
+BME680 IAQ:  25.00
+Tue , 03/09/2021 , 21:10:59 EST
+
+Temperature:     73.25 F 
+Pressure:        30.23 inHg
+Humidity:        31.20 %
+Gas:             607.81 KOhms
+CO2:             500.00 KOhms
+VOC:             0.50 KOhms
+
+Air Quality:  Good
+BME680 IAQ:  25.00
+Tue , 03/09/2021 , 21:11:20 EST
+
+Temperature:     73.48 F 
+Pressure:        30.23 inHg
+Humidity:        31.26 %
+Gas:             590.00 KOhms
+CO2:             500.00 KOhms
+VOC:             0.50 KOhms
+
+Air Quality:  Good
+BME680 IAQ:  25.00
+Tue , 03/09/2021 , 21:11:40 EST
+
+Temperature:     73.68 F 
+Pressure:        30.23 inHg
+Humidity:        31.13 %
+Gas:             595.82 KOhms
+CO2:             500.00 KOhms
+VOC:             0.50 KOhms
+
+Air Quality:  Good
+BME680 IAQ:  25.00
+Tue , 03/09/2021 , 21:11:59 EST
+
+Temperature:     73.55 F 
+Pressure:        30.23 inHg
+Humidity:        31.29 %
+Gas:             606.15 KOhms
+CO2:             500.00 KOhms
+VOC:             0.50 KOhms
+
+Air Quality:  Good
+BME680 IAQ:  25.00
+Tue , 03/09/2021 , 21:12:20 EST
+
+Temperature:     73.39 F 
+Pressure:        30.23 inHg
+Humidity:        31.27 %
+Gas:             593.16 KOhms
+CO2:             500.00 KOhms
+VOC:             0.50 KOhms
+
+Air Quality:  Good
+BME680 IAQ:  25.00
+Tue , 03/09/2021 , 21:12:40 EST
+
+Temperature:     73.36 F 
+Pressure:        30.23 inHg
+Humidity:        31.22 %
+Gas:             599.04 KOhms
+CO2:             500.00 KOhms
+VOC:             0.50 KOhms
+
+Air Quality:  Good
+BME680 IAQ:  25.00
+Tue , 03/09/2021 , 21:12:59 EST
+
+Temperature:     73.37 F 
+Pressure:        30.23 inHg
+Humidity:        31.17 %
+Gas:             605.59 KOhms
+CO2:             500.00 KOhms
+VOC:             0.50 KOhms
+
+Air Quality:  Good
+BME680 IAQ:  25.00
+Tue , 03/09/2021 , 21:13:20 EST
+
+Temperature:     73.11 F 
+Pressure:        30.23 inHg
+Humidity:        31.38 %
+Gas:             526.00 KOhms
+CO2:             594.39 KOhms
+VOC:             0.71 KOhms
+
+Air Quality:  Aver.
+BME680 IAQ:  79.02
+Tue , 03/09/2021 , 21:13:40 EST
+
+Temperature:     72.01 F 
+Pressure:        30.23 inHg
+Humidity:        34.27 %
+Gas:             266.69 KOhms
+CO2:             3303.42 KOhms
+VOC:             50.53 KOhms
+
+Air Quality:  Very Poor
+BME680 IAQ:  475.89
+Tue , 03/09/2021 , 21:13:59 EST
+
+Temperature:     71.81 F 
+Pressure:        30.23 inHg
+Humidity:        34.08 %
+Gas:             273.39 KOhms
+CO2:             4149.98 KOhms
+VOC:             181.68 KOhms
+
+Air Quality:  Very Poor
+BME680 IAQ:  500.00
+Tue , 03/09/2021 , 21:14:20 EST
+
+Temperature:     71.63 F 
+Pressure:        30.24 inHg
+Humidity:        33.63 %
+Gas:             277.09 KOhms
+CO2:             4160.64 KOhms
+VOC:             184.63 KOhms
+
+Air Quality:  Very Poor
+BME680 IAQ:  500.00
+Tue , 03/09/2021 , 21:14:40 EST
+
+Temperature:     71.52 F 
+Pressure:        30.24 inHg
+Humidity:        34.71 %
+Gas:             255.44 KOhms
+CO2:             4465.29 KOhms
+VOC:             292.62 KOhms
+
+Air Quality:  Very Poor
+BME680 IAQ:  500.00
+Tue , 03/09/2021 , 21:14:59 EST
+
+Data written to  /LOG03092021.TXT  Tue , 03/09/2021 , 21:15:00 EST
+
+Channel update successful.
+
+Temperature:     71.38 F 
+Pressure:        30.24 inHg
+Humidity:        36.05 %
+Gas:             237.27 KOhms
+CO2:             4751.78 KOhms
+VOC:             451.21 KOhms
+
+Air Quality:  Very Poor
+BME680 IAQ:  500.00
+Tue , 03/09/2021 , 21:15:20 EST
+
+Temperature:     71.45 F 
+Pressure:        30.24 inHg
+Humidity:        35.85 %
+Gas:             235.90 KOhms
+CO2:             4838.25 KOhms
+VOC:             514.22 KOhms
+
+Air Quality:  Very Poor
+BME680 IAQ:  500.00
+Tue , 03/09/2021 , 21:15:40 EST
+
+Temperature:     71.50 F 
+Pressure:        30.24 inHg
+Humidity:        35.64 %
+Gas:             235.56 KOhms
+CO2:             4816.30 KOhms
+VOC:             497.43 KOhms
+
+Air Quality:  Very Poor
+BME680 IAQ:  500.00
+Tue , 03/09/2021 , 21:15:59 EST
+
+Temperature:     71.57 F 
+Pressure:        30.24 inHg
+Humidity:        34.71 %
+Gas:             264.96 KOhms
+CO2:             4420.10 KOhms
+VOC:             273.30 KOhms
+
+Air Quality:  Very Poor
+BME680 IAQ:  500.00
+Tue , 03/09/2021 , 21:16:20 EST
+
+Temperature:     71.50 F 
+Pressure:        30.24 inHg
+Humidity:        35.75 %
+Gas:             259.50 KOhms
+CO2:             4396.91 KOhms
+VOC:             263.88 KOhms
+
+Air Quality:  Very Poor
+BME680 IAQ:  500.00
+Tue , 03/09/2021 , 21:16:40 EST
+
+Temperature:     71.56 F 
+Pressure:        30.24 inHg
+Humidity:        34.36 %
+Gas:             287.32 KOhms
+CO2:             3902.94 KOhms
+VOC:             125.06 KOhms
+
+Air Quality:  Very Poor
+BME680 IAQ:  457.87
+Tue , 03/09/2021 , 21:16:59 EST
+
+Temperature:     71.52 F 
+Pressure:        30.24 inHg
+Humidity:        34.59 %
+Gas:             281.87 KOhms
+CO2:             3936.18 KOhms
+VOC:             131.50 KOhms
+
+Air Quality:  Very Poor
+BME680 IAQ:  452.89
+Tue , 03/09/2021 , 21:17:20 EST
+
+Temperature:     71.40 F 
+Pressure:        30.24 inHg
+Humidity:        35.08 %
+Gas:             270.22 KOhms
+CO2:             4181.76 KOhms
+VOC:             190.62 KOhms
+
+Air Quality:  Very Poor
+BME680 IAQ:  470.78
+Tue , 03/09/2021 , 21:17:40 EST
+
+Temperature:     71.45 F 
+Pressure:        30.24 inHg
+Humidity:        34.69 %
+Gas:             280.42 KOhms
+CO2:             3936.97 KOhms
+VOC:             131.66 KOhms
+
+Air Quality:  Very Poor
+BME680 IAQ:  434.85
+Tue , 03/09/2021 , 21:17:59 EST
+
+Temperature:     71.43 F 
+Pressure:        30.24 inHg
+Humidity:        34.92 %
+Gas:             284.32 KOhms
+CO2:             3927.93 KOhms
+VOC:             129.88 KOhms
+
+Air Quality:  Very Poor
+BME680 IAQ:  426.01
+Tue , 03/09/2021 , 21:18:20 EST
+
+Temperature:     71.34 F 
+Pressure:        30.24 inHg
+Humidity:        34.78 %
+Gas:             289.87 KOhms
+CO2:             3751.28 KOhms
+VOC:             99.44 KOhms
+
+Air Quality:  Very Poor
+BME680 IAQ:  398.38
+Tue , 03/09/2021 , 21:18:40 EST
+
+Temperature:     71.18 F 
+Pressure:        30.24 inHg
+Humidity:        35.55 %
+Gas:             266.48 KOhms
+CO2:             3980.65 KOhms
+VOC:             140.65 KOhms
+
+Air Quality:  Very Poor
+BME680 IAQ:  415.52
+Tue , 03/09/2021 , 21:18:59 EST
+
+Temperature:     71.81 F 
+Pressure:        30.24 inHg
+Humidity:        34.66 %
+Gas:             305.59 KOhms
+CO2:             3824.96 KOhms
+VOC:             111.15 KOhms
+
+Air Quality:  Very Poor
+BME680 IAQ:  392.46
+Tue , 03/09/2021 , 21:19:20 EST
+
+Temperature:     72.53 F 
+Pressure:        30.24 inHg
+Humidity:        32.70 %
+Gas:             362.12 KOhms
+CO2:             2884.51 KOhms
+VOC:             26.82 KOhms
+
+Air Quality:  Poor
+BME680 IAQ:  290.18
+Tue , 03/09/2021 , 21:19:40 EST
+
+Temperature:     72.82 F 
+Pressure:        30.23 inHg
+Humidity:        32.31 %
+Gas:             392.63 KOhms
+CO2:             2384.85 KOhms
+VOC:             12.60 KOhms
+
+Air Quality:  Poor
+BME680 IAQ:  237.37
+Tue , 03/09/2021 , 21:19:59 EST
+
+Temperature:     73.01 F 
+Pressure:        30.23 inHg
+Humidity:        31.89 %
+Gas:             423.41 KOhms
+CO2:             2017.57 KOhms
+VOC:             7.23 KOhms
+
+Air Quality:  Poor
+BME680 IAQ:  200.87
+Tue , 03/09/2021 , 21:20:20 EST
+
+Temperature:     73.11 F 
+Pressure:        30.23 inHg
+Humidity:        31.66 %
+Gas:             440.25 KOhms
+CO2:             1789.10 KOhms
+VOC:             5.12 KOhms
+
+Air Quality:  Bad
+BME680 IAQ:  178.18
+Tue , 03/09/2021 , 21:20:40 EST
+
+Temperature:     73.21 F 
+Pressure:        30.23 inHg
+Humidity:        31.45 %
+Gas:             455.34 KOhms
+CO2:             1629.22 KOhms
+VOC:             4.02 KOhms
+
+Air Quality:  Bad
+BME680 IAQ:  162.29
+Tue , 03/09/2021 , 21:20:59 EST
+
+Temperature:     73.30 F 
+Pressure:        30.23 inHg
+Humidity:        32.11 %
+Gas:             464.57 KOhms
+CO2:             1507.54 KOhms
+VOC:             3.35 KOhms
+
+Air Quality:  Bad
+BME680 IAQ:  150.21
+Tue , 03/09/2021 , 21:21:20 EST
+
+Temperature:     73.32 F 
+Pressure:        30.23 inHg
+Humidity:        32.34 %
+Gas:             470.49 KOhms
+CO2:             1409.10 KOhms
+VOC:             2.88 KOhms
+
+Air Quality:  Less Avg.
+BME680 IAQ:  140.43
+Tue , 03/09/2021 , 21:21:40 EST
+
+Temperature:     73.45 F 
+Pressure:        30.23 inHg
+Humidity:        32.58 %
+Gas:             474.19 KOhms
+CO2:             1366.81 KOhms
+VOC:             2.70 KOhms
+
+Air Quality:  Less Avg.
+BME680 IAQ:  136.25
+Tue , 03/09/2021 , 21:21:59 EST
+
+Temperature:     73.55 F 
+Pressure:        30.23 inHg
+Humidity:        31.64 %
+Gas:             498.00 KOhms
+CO2:             1202.11 KOhms
+VOC:             2.11 KOhms
+
+Air Quality:  Less Avg.
+BME680 IAQ:  119.86
+Tue , 03/09/2021 , 21:22:20 EST
+
+Temperature:     73.54 F 
+Pressure:        30.23 inHg
+Humidity:        31.18 %
+Gas:             499.13 KOhms
+CO2:             1120.82 KOhms
+VOC:             1.86 KOhms
+
+Air Quality:  Less Avg.
+BME680 IAQ:  111.78
+Tue , 03/09/2021 , 21:22:40 EST
+
+Temperature:     73.59 F 
+Pressure:        30.23 inHg
+Humidity:        32.66 %
+Gas:             490.29 KOhms
+CO2:             1211.11 KOhms
+VOC:             2.14 KOhms
+
+Air Quality:  Less Avg.
+BME680 IAQ:  120.80
+Tue , 03/09/2021 , 21:22:59 EST
+
+Temperature:     73.59 F 
+Pressure:        30.23 inHg
+Humidity:        32.24 %
+Gas:             507.51 KOhms
+CO2:             1086.36 KOhms
+VOC:             1.77 KOhms
+
+Air Quality:  Less Avg.
+BME680 IAQ:  108.38
+Tue , 03/09/2021 , 21:23:20 EST
+
+Temperature:     73.43 F 
+Pressure:        30.22 inHg
+Humidity:        31.34 %
+Gas:             514.19 KOhms
+CO2:             974.15 KOhms
+VOC:             1.49 KOhms
+
+Air Quality:  Aver.
+BME680 IAQ:  97.21
+Tue , 03/09/2021 , 21:23:40 EST
+
+Temperature:     73.39 F 
+Pressure:        30.22 inHg
+Humidity:        31.21 %
+Gas:             520.23 KOhms
+CO2:             922.68 KOhms
+VOC:             1.38 KOhms
+
+Air Quality:  Aver.
+BME680 IAQ:  92.09
+Tue , 03/09/2021 , 21:23:59 EST
+
+Temperature:     73.45 F 
+Pressure:        30.22 inHg
+Humidity:        31.26 %
+Gas:             532.32 KOhms
+CO2:             874.60 KOhms
+VOC:             1.29 KOhms
+
+Air Quality:  Aver.
+BME680 IAQ:  87.31
+Tue , 03/09/2021 , 21:24:20 EST
+
+Temperature:     73.38 F 
+Pressure:        30.22 inHg
+Humidity:        31.54 %
+Gas:             525.17 KOhms
+CO2:             885.89 KOhms
+VOC:             1.31 KOhms
+
+Air Quality:  Aver.
+BME680 IAQ:  88.45
+Tue , 03/09/2021 , 21:24:40 EST
+
+Temperature:     73.36 F 
+Pressure:        30.22 inHg
+Humidity:        31.22 %
+Gas:             534.46 KOhms
+CO2:             822.08 KOhms
+VOC:             1.19 KOhms
+
+Air Quality:  Aver.
+BME680 IAQ:  82.10
+Tue , 03/09/2021 , 21:24:59 EST
+
+Temperature:     73.52 F 
+Pressure:        30.22 inHg
+Humidity:        31.01 %
+Gas:             544.54 KOhms
+CO2:             766.72 KOhms
+VOC:             1.09 KOhms
+
+Air Quality:  Aver.
+BME680 IAQ:  76.58
+Tue , 03/09/2021 , 21:25:20 EST
+
+Temperature:     73.52 F 
+Pressure:        30.22 inHg
+Humidity:        31.92 %
+Gas:             531.47 KOhms
+CO2:             826.32 KOhms
+VOC:             1.19 KOhms
+
+Air Quality:  Aver.
+BME680 IAQ:  82.55
+Tue , 03/09/2021 , 21:25:40 EST
+
+Temperature:     73.50 F 
+Pressure:        30.23 inHg
+Humidity:        31.32 %
+Gas:             542.32 KOhms
+CO2:             756.88 KOhms
+VOC:             1.08 KOhms
+
+Air Quality:  Aver.
+BME680 IAQ:  75.62
+Tue , 03/09/2021 , 21:25:59 EST
+
+Temperature:     73.45 F 
+Pressure:        30.23 inHg
+Humidity:        31.17 %
+Gas:             548.13 KOhms
+CO2:             716.74 KOhms
+VOC:             1.01 KOhms
+
+Air Quality:  Aver.
+BME680 IAQ:  71.63
+Tue , 03/09/2021 , 21:26:20 EST
+
+Temperature:     73.43 F 
+Pressure:        30.23 inHg
+Humidity:        31.05 %
+Gas:             544.09 KOhms
+CO2:             705.85 KOhms
+VOC:             1.00 KOhms
+
+Air Quality:  Aver.
+BME680 IAQ:  70.55
+Tue , 03/09/2021 , 21:26:40 EST
+
+Temperature:     73.54 F 
+Pressure:        30.23 inHg
+Humidity:        31.36 %
+Gas:             545.43 KOhms
+CO2:             728.41 KOhms
+VOC:             1.03 KOhms
+
+Air Quality:  Aver.
+BME680 IAQ:  72.81
+Tue , 03/09/2021 , 21:26:59 EST
+
+Temperature:     73.61 F 
+Pressure:        30.23 inHg
+Humidity:        30.94 %
+Gas:             560.62 KOhms
+CO2:             656.61 KOhms
+VOC:             0.90 KOhms
+
+Air Quality:  Aver.
+BME680 IAQ:  64.14
+Tue , 03/09/2021 , 21:27:20 EST
+
+Temperature:     73.59 F 
+Pressure:        30.23 inHg
+Humidity:        30.85 %
+Gas:             554.54 KOhms
+CO2:             657.05 KOhms
+VOC:             0.91 KOhms
+
+Air Quality:  Aver.
+BME680 IAQ:  64.26
+Tue , 03/09/2021 , 21:27:40 EST
+
+Temperature:     73.63 F 
+Pressure:        30.23 inHg
+Humidity:        31.08 %
+Gas:             558.73 KOhms
+CO2:             652.70 KOhms
+VOC:             0.89 KOhms
+
+Air Quality:  Aver.
+BME680 IAQ:  63.18
+Tue , 03/09/2021 , 21:27:59 EST
+
+Temperature:     73.66 F 
+Pressure:        30.23 inHg
+Humidity:        31.28 %
+Gas:             562.52 KOhms
+CO2:             644.44 KOhms
+VOC:             0.86 KOhms
+
+Air Quality:  Aver.
+BME680 IAQ:  61.12
+Tue , 03/09/2021 , 21:28:20 EST
+
+Temperature:     73.59 F 
+Pressure:        30.23 inHg
+Humidity:        31.10 %
+Gas:             555.93 KOhms
+CO2:             643.62 KOhms
+VOC:             0.86 KOhms
+
+Air Quality:  Aver.
+BME680 IAQ:  60.92
+Tue , 03/09/2021 , 21:28:40 EST
+
+Temperature:     73.63 F 
+Pressure:        30.23 inHg
+Humidity:        32.01 %
+Gas:             549.49 KOhms
+CO2:             668.93 KOhms
+VOC:             0.94 KOhms
+
+Air Quality:  Aver.
+BME680 IAQ:  66.92
+Tue , 03/09/2021 , 21:28:59 EST
+
+Temperature:     73.72 F 
+Pressure:        30.23 inHg
+Humidity:        31.34 %
+Gas:             564.43 KOhms
+CO2:             638.38 KOhms
+VOC:             0.84 KOhms
+
+Air Quality:  Aver.
+BME680 IAQ:  59.63
+Tue , 03/09/2021 , 21:29:20 EST
+
+Temperature:     73.68 F 
+Pressure:        30.23 inHg
+Humidity:        31.12 %
+Gas:             560.15 KOhms
+CO2:             624.78 KOhms
+VOC:             0.80 KOhms
+
+Air Quality:  Aver.
+BME680 IAQ:  56.23
+Tue , 03/09/2021 , 21:29:40 EST
+
+Temperature:     73.72 F 
+Pressure:        30.23 inHg
+Humidity:        30.78 %
+Gas:             563.47 KOhms
+CO2:             617.59 KOhms
+VOC:             0.78 KOhms
+
+Air Quality:  Aver.
+BME680 IAQ:  54.44
+Tue , 03/09/2021 , 21:29:59 EST
+
+Data written to  /LOG03092021.TXT  Tue , 03/09/2021 , 21:30:00 EST
+
+Channel update successful.
+
+Temperature:     73.84 F 
+Pressure:        30.23 inHg
+Humidity:        30.88 %
+Gas:             571.23 KOhms
+CO2:             605.94 KOhms
+VOC:             0.75 KOhms
+
+Air Quality:  Aver.
+BME680 IAQ:  51.53
+Tue , 03/09/2021 , 21:30:20 EST
+
+Temperature:     73.86 F 
+Pressure:        30.23 inHg
+Humidity:        32.57 %
+Gas:             549.04 KOhms
+CO2:             649.39 KOhms
+VOC:             0.88 KOhms
+
+Air Quality:  Aver.
+BME680 IAQ:  62.42
+Tue , 03/09/2021 , 21:30:40 EST
+
+Temperature:     73.86 F 
+Pressure:        30.23 inHg
+Humidity:        32.85 %
+Gas:             540.11 KOhms
+CO2:             654.50 KOhms
+VOC:             0.90 KOhms
+
+Air Quality:  Aver.
+BME680 IAQ:  63.70
+Tue , 03/09/2021 , 21:30:59 EST
+
+Temperature:     73.91 F 
+Pressure:        30.23 inHg
+Humidity:        31.60 %
+Gas:             566.84 KOhms
+CO2:             615.44 KOhms
+VOC:             0.77 KOhms
+
+Air Quality:  Aver.
+BME680 IAQ:  53.93
+Tue , 03/09/2021 , 21:31:20 EST
+
+Temperature:     73.84 F 
+Pressure:        30.23 inHg
+Humidity:        30.92 %
+Gas:             558.27 KOhms
+CO2:             605.95 KOhms
+VOC:             0.75 KOhms
+
+Air Quality:  Aver.
+BME680 IAQ:  51.55
+Tue , 03/09/2021 , 21:31:40 EST
+
+Temperature:     73.79 F 
+Pressure:        30.23 inHg
+Humidity:        30.71 %
+Gas:             567.81 KOhms
+CO2:             589.89 KOhms
+VOC:             0.70 KOhms
+
+Air Quality:  Good
+BME680 IAQ:  47.53
+Tue , 03/09/2021 , 21:31:59 EST
+
+Temperature:     73.79 F 
+Pressure:        30.23 inHg
+Humidity:        30.83 %
+Gas:             578.19 KOhms
+CO2:             579.13 KOhms
+VOC:             0.67 KOhms
+
+Air Quality:  Good
+BME680 IAQ:  44.84
+Tue , 03/09/2021 , 21:32:20 EST
+
+Temperature:     73.75 F 
+Pressure:        30.23 inHg
+Humidity:        32.17 %
+Gas:             556.86 KOhms
+CO2:             621.66 KOhms
+VOC:             0.79 KOhms
+
+Air Quality:  Aver.
+BME680 IAQ:  55.51
+Tue , 03/09/2021 , 21:32:40 EST
+
+Temperature:     73.74 F 
+Pressure:        30.23 inHg
+Humidity:        31.40 %
+Gas:             565.39 KOhms
+CO2:             603.32 KOhms
+VOC:             0.74 KOhms
+
+Air Quality:  Aver.
+BME680 IAQ:  50.92
+Tue , 03/09/2021 , 21:32:59 EST
+
+Temperature:     73.81 F 
+Pressure:        30.23 inHg
+Humidity:        31.36 %
+Gas:             574.19 KOhms
+CO2:             585.96 KOhms
+VOC:             0.69 KOhms
+
+Air Quality:  Good
+BME680 IAQ:  46.57
+Tue , 03/09/2021 , 21:33:20 EST
+
+Temperature:     73.77 F 
+Pressure:        30.23 inHg
+Humidity:        31.66 %
+Gas:             562.52 KOhms
+CO2:             596.09 KOhms
+VOC:             0.72 KOhms
+
+Air Quality:  Good
+BME680 IAQ:  49.11
+Tue , 03/09/2021 , 21:33:40 EST
+
+Temperature:     73.74 F 
+Pressure:        30.23 inHg
+Humidity:        32.45 %
+Gas:             557.80 KOhms
+CO2:             611.11 KOhms
+VOC:             0.76 KOhms
+
+Air Quality:  Aver.
+BME680 IAQ:  52.89
+Tue , 03/09/2021 , 21:33:59 EST
+
+Temperature:     73.70 F 
+Pressure:        30.23 inHg
+Humidity:        31.25 %
+Gas:             577.18 KOhms
+CO2:             567.15 KOhms
+VOC:             0.64 KOhms
+
+Air Quality:  Good
+BME680 IAQ:  41.86
+Tue , 03/09/2021 , 21:34:20 EST
+
+Temperature:     73.68 F 
+Pressure:        30.23 inHg
+Humidity:        31.22 %
+Gas:             572.21 KOhms
+CO2:             566.04 KOhms
+VOC:             0.64 KOhms
+
+Air Quality:  Good
+BME680 IAQ:  41.58
+Tue , 03/09/2021 , 21:34:40 EST
+
+Temperature:     73.84 F 
+Pressure:        30.23 inHg
+Humidity:        33.97 %
+Gas:             539.67 KOhms
+CO2:             642.13 KOhms
+VOC:             0.86 KOhms
+
+Air Quality:  Aver.
+BME680 IAQ:  60.70
+Tue , 03/09/2021 , 21:34:59 EST
+
+Temperature:     73.86 F 
+Pressure:        30.23 inHg
+Humidity:        31.69 %
+Gas:             571.23 KOhms
+CO2:             581.91 KOhms
+VOC:             0.68 KOhms
+
+Air Quality:  Good
+BME680 IAQ:  45.58
+Tue , 03/09/2021 , 21:35:20 EST
+
+Temperature:     73.83 F 
+Pressure:        30.23 inHg
+Humidity:        30.88 %
+Gas:             571.23 KOhms
+CO2:             562.81 KOhms
+VOC:             0.63 KOhms
+
+Air Quality:  Good
+BME680 IAQ:  40.78
+Tue , 03/09/2021 , 21:35:40 EST
+
+Temperature:     73.88 F 
+Pressure:        30.23 inHg
+Humidity:        30.85 %
+Gas:             572.21 KOhms
+CO2:             558.41 KOhms
+VOC:             0.62 KOhms
+
+Air Quality:  Good
+BME680 IAQ:  39.68
+Tue , 03/09/2021 , 21:35:59 EST
+
+Temperature:     73.86 F 
+Pressure:        30.23 inHg
+Humidity:        32.83 %
+Gas:             571.23 KOhms
+CO2:             587.38 KOhms
+VOC:             0.70 KOhms
+
+Air Quality:  Good
+BME680 IAQ:  46.97
+Tue , 03/09/2021 , 21:36:20 EST
+
+Temperature:     73.84 F 
+Pressure:        30.23 inHg
+Humidity:        31.21 %
+Gas:             573.20 KOhms
+CO2:             558.20 KOhms
+VOC:             0.62 KOhms
+
+Air Quality:  Good
+BME680 IAQ:  39.64
+Tue , 03/09/2021 , 21:36:40 EST
+
+Temperature:     73.92 F 
+Pressure:        30.23 inHg
+Humidity:        31.95 %
+Gas:             566.36 KOhms
+CO2:             575.20 KOhms
+VOC:             0.66 KOhms
+
+Air Quality:  Good
+BME680 IAQ:  43.91
+Tue , 03/09/2021 , 21:36:59 EST
+
+Temperature:     73.99 F 
+Pressure:        30.23 inHg
+Humidity:        31.98 %
+Gas:             571.72 KOhms
+CO2:             567.96 KOhms
+VOC:             0.65 KOhms
+
+Air Quality:  Good
+BME680 IAQ:  42.10
+Tue , 03/09/2021 , 21:37:20 EST
