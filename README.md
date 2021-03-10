@@ -8,7 +8,8 @@ Before using "BME680-BSEC-Data-Logger" enter your network credentials and relate
 
 "Thingspeak.com" graphing can be displayed by inputing "Thingspeak.com" Iframes into "index3.h"
 
-Images of the "BME680 Bsec Data Logger" project:  BME680 BSEC Data Logger Project Images
+Images of the "BME680 Bsec Data Logger" project:  
+https://drive.google.com/drive/folders/1L7QDz4w8qhgxX3nBnLf-JB6nFU1T7aWC?usp=sharing
 
 Wemos D1 R2 was used in developing code.  
 
